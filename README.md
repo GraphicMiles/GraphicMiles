@@ -10,7 +10,7 @@ budgets, and not leaking secrets into them.
   community: geohash-proximity discovery, RTDB presence, cache-first Firestore
   reads, 590+ unit tests and a strict verify pipeline. Production users,
   private codebase; case study on request.
-- **[ForgeAI](https://github.com/GraphicMiles/forgeai-android)** — local-first
+- **[Luna](https://github.com/GraphicMiles/Luna)** — local-first
   AI coding assistant for Android. GGUF models run natively through a
   llama.cpp ↔ JNI ↔ Capacitor bridge with incremental token streaming and a
   checksummed, immutable model catalog. No server required.
